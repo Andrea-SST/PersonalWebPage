@@ -1,0 +1,71 @@
+/* Cuerpo de la página */
+
+body{
+    background-color: #b0b0b0;               /* Color de Fondo */ 
+}
+
+/* Título */
+
+h1{
+    color:white;                            /* Color Texto */
+    background-color: #b0b0b0;     /* Color de Fondo */
+    border: 10px solid rgb(98, 97, 97);     /* Tamaño y Color del Borde */
+    font-family:"chilanka", cursive;          /* Tipografia */
+    font-size: xx-large;                      /* Tamaño de letra */
+    padding: 50px;                            /* Relleno de la caja */
+    margin: 20px;                             /* Espacio que hay entre la caja */
+    
+}
+
+h2{
+    color: black;
+    font-family:"chilanka", cursive;
+    font-size: x-large;
+}
+
+h3{
+    color: black;
+    font-family:"chilanka", cursive;
+    font-size: x-large;
+}
+
+h4{
+    color: black;
+    font-family:"chilanka", cursive;
+    font-size: x-large;
+}
+
+p{
+    color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+li{
+    color:black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:medium;
+}
+
+
+p#parrafo-prueba{
+    color:black;
+    background-color: rgba(79, 79, 79, 0.607);
+    font-family:"chilanka";
+}
+
+
+/* Imagen */
+
+img{
+    width: 270px;       /* Tamaño a lo Ancho */
+    height: 360px;      /* Tamaño a lo Alto */
+}
+
+
+
+
+
+/* <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet"> */
